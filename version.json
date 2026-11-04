@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.4",
-    "updated":  "2026-11-04T16:12:10Z",
+    "version":  "1.0.5",
+    "updated":  "2026-11-04T16:56:45Z",
     "size":  2494976,
     "exe":  "OFFSET.exe",
-    "sha256":  "d88118668962d0f94e4ebbfff4e7866f66030bd5e0a44905f4d03a52e0423ba8",
+    "sha256":  "1747ad8365989bdea4cc7013882905b4e27e5ad343d0753b5a81097d3069820c",
     "sounds":  {
                    "ding.wav":  "71ffb7348a79810ebe7902dec20f16696c33456e7dcaf101e867cdb7887409f4",
                    "bell.wav":  "4bd487452779e248df4d941c6ef408ff3f19606fc2d92ba9a41d7f22944e4a8e"
